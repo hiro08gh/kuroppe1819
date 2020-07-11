@@ -6,7 +6,7 @@
 　　　　　　　　　　　 ∧　 ∧
 　　　　　　　　　　 |1/　|1/
 　　　　　　　　　 ／￣￣￣｀ヽ、
-　　　　　　　　 /　　　　　　　　ヽ
+　　　　　　　　 /　　　　　　　ヽ
 　　　　　　　　/　 ⌒　 ⌒　　　 |
 　　　　　　　　|　　へ　 へ　　　 | 　　I tried to write my profile ♪
 　　　　　　　 /　　　　　　　　　　|
