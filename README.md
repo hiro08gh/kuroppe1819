@@ -1,16 +1,19 @@
-### Hi there 👋
+# Atsusuke (もやし丸)
 
-<!--
-**kuroppe1819/kuroppe1819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/Twitter-mys__x101-blue)](https://twitter.com/mys_x101) [![](https://img.shields.io/badge/Blog-%E3%82%82%E3%82%84%E3%81%97%E4%B8%B8%E3%81%AE%E5%82%99%E5%BF%98%E9%8C%B2-yellowgreen)](https://dev-moyashi.hatenablog.com/archive)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+ふふ､書いてみただけ♪
+　　　　∧ ∧
+　　　　ﾊ丿ﾊ丿
+　　　／￣￣＼
+　　 / ⌒　⌒ ヽ
+　　｜ へ　へ　|
+　　/　　　　　|
+　 /　　　　　 |
+　｜　　　　 　ヽ
+　(＼＿＿＿/⌒) |
+　｜　　　｜　ヽ|
+　 ＼ ノ　 ＼ ノ|
+￣￣￣￣￣￣￣￣￣￣
+```
