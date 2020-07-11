@@ -8,7 +8,7 @@
 　　　　　　　　　 ／￣￣￣｀ヽ、
 　　　　　　　　 /　　　　　　　　ヽ
 　　　　　　　　/　 ⌒　 ⌒　　　 |
-　　　　　　　　|　　へ　 へ　　　 | 　　I tried to write the README ♪
+　　　　　　　　|　　へ　 へ　　　 | 　　I tried to write my profile ♪
 　　　　　　　 /　　　　　　　　　　|
 　　　　　　 /　　　　　　　　　　　|
 　　　　　　（　　　　　　　　　　＿ |
