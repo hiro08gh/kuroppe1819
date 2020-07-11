@@ -8,10 +8,10 @@
 　　　　　　　　　 ／￣￣￣｀ヽ、
 　　　　　　　　 /　　　　　　　ヽ
 　　　　　　　　/　 ⌒　 ⌒　　　 |
-　　　　　　　　|　　へ　 へ　　　 | 　　I tried to write my profile ♪
-　　　　　　　 /　　　　　　　　　　|
-　　　　　　 /　　　　　　　　　　　|
-　　　　　　（　　　　　　　　　　＿ |
+　　　　　　　　|　　へ　 へ　　　| 　　I tried to write my profile ♪
+　　　　　　　 /　　　　　　　　　|
+　　　　　　 /　　　　　　　　　　|
+　　　　　　（　　　　　　　　　　＿|
 　　　　　　（ヽ、　　　　　　　/ 　）|
 　　　　　　 |　｀`ー――‐''"|　　ヽ|
 　　　　　　 ゝ　ノ　　　　 　 ヽ　 ノ
